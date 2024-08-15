@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/authoring content.md",
+                "file": "content/docs for setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Note.md"
+                "file": "content/docs for setup.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Note.md"
+                "file": "content/docs for setup.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Note.md",
+                "file": "content/docs for setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Note.md",
+                "file": "content/docs for setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,30 +240,66 @@
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "recipe-grabber:Recipe Grabber": false,
+      "confluence-integration:Publish to Confluence": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "37fcd7018ed4a3a6",
+  "active": "25ac992dff818ac1",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/docs for setup.md",
-    "content/Untitled.md",
-    "content",
-    "templates/Note.md",
-    "docs/authoring content.md",
-    "docs/hosting.md",
-    "docs/configuration.md",
-    "public/tags/obsidian.html",
-    "public/docs-for-setup.html",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
     "public/static/contentIndex.json",
-    "public/static",
     "public/index.xml",
     "public/sitemap.xml",
+    "public/tags/obsidian.html",
     "public/tags/index.html",
-    "public/tags"
+    "public/tags",
+    "public/index.html",
+    "public/docs-for-setup.html",
+    "public/Untitled.html",
+    "public/postscript.js",
+    "docs/authoring content.md",
+    "templates/Note.md",
+    "content/index.md",
+    "content/docs for setup.md",
+    "content/Untitled.md",
+    "docs/hosting.md",
+    "docs/configuration.md",
+    "61 Josh's Work & Tech/00-Inbox/Untitled 4.md",
+    "61 Josh's Work & Tech/00-Inbox/Untitled 3.md",
+    "61 Josh's Work & Tech/97 Weekly Notes/2024-W33-Aug.md",
+    "61 Josh's Work & Tech/06 Dev & Tech/Git commit author and configuration.md",
+    "33 Financial thoughts/Personal Finance.md",
+    "39 Recipes/Homemade Cake Pops.md",
+    "39 Recipes/Sri Lankan Eggplant Curry.md",
+    "39 Recipes/Tomatillo Chile de Arbol Salsa.md",
+    "39 Recipes/Chicken Marbella.md",
+    "39 Recipes/Yakisoba Sauce.md",
+    "61 Josh's Work & Tech/00-Inbox/attachments/image.jpg",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114216.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/image 1.jpg",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114625.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114103.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20230124100856.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624084542.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624093919.png",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/Bitovi Training Audit.md",
+    "61 Josh's Work & Tech/06 Dev & Tech/Lambda-BloomTech/Ava's DB notes.md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/01-Index (needs updating).md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/Project Management & Jira training.md",
+    "61 Josh's Work & Tech/08 Trainings & Presentations/2024-01-12 Team Stingray Frontend FE Training.md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/2022-05-23 Bitovi Typescript Training.md",
+    "61 Josh's Work & Tech/00-Inbox/Bitovi consulting training 2024-7-8.md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/Bitovi Evals & Goals Log.md",
+    "Sprinkler Valve layout.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "61 Josh's Bitovi/00-Inbox/TEMP Canvas.canvas",
+    "61 Josh's Bitovi/00-Inbox 1/TEMP Canvas.canvas",
+    "00-Inbox/TEMP Canvas.canvas",
+    "Josh's Tech and Work/00-Inbox/TEMP Canvas.canvas"
   ]
 }
