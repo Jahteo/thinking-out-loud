@@ -1,69 +1,35 @@
 {
   "main": {
-    "id": "81640df763095941",
+    "id": "5fafe078c24bd6b1",
     "type": "split",
     "children": [
       {
-        "id": "05bf81b36948954a",
+        "id": "e21f4b97460572b5",
         "type": "tabs",
         "children": [
           {
-            "id": "553df30089917149",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "25ac992dff818ac1",
+            "id": "52ea786f591eba31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/docs for setup.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c66d4826a03f68e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Note.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "988f5c299a638ad2",
+    "id": "d1b9a88bc6cb6747",
     "type": "split",
     "children": [
       {
-        "id": "e1276ad333d5f89c",
+        "id": "ab28b1b2b7cb5923",
         "type": "tabs",
         "children": [
           {
-            "id": "7703dfcf48f53e1e",
+            "id": "c3afc865b965a3a8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -73,7 +39,7 @@
             }
           },
           {
-            "id": "7fbbbabd9f19912d",
+            "id": "29140ec9bbf2502f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,14 +47,14 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "7048b03ccd39be2e",
+            "id": "3ee7e3e93e953d9c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,19 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
-    "id": "5c71924aec7127e5",
+    "id": "e3a53e7b160060c1",
     "type": "split",
     "children": [
       {
-        "id": "ea05ac511121ce95",
+        "id": "27c4887cdae0b45f",
         "type": "tabs",
-        "dimension": 38.5,
         "children": [
           {
-            "id": "b168492dcc6802cc",
+            "id": "5a88e2c8abc9ac85",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -119,87 +84,11 @@
             }
           },
           {
-            "id": "c753aa66c5e4ffbb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "2a7e395206b4690c",
-            "type": "leaf",
-            "state": {
-              "type": "stats-tracker",
-              "state": {}
-            }
-          },
-          {
-            "id": "71bcf8b98d66e068",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e20cd691b81341ba",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "4024cd4b171f5b9e",
-        "type": "tabs",
-        "dimension": 61.5,
-        "children": [
-          {
-            "id": "c1cd646ded335f4a",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "content/docs for setup.md"
-              }
-            }
-          },
-          {
-            "id": "4d3346b137586077",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": true,
-                "searchQuery": "read"
-              }
-            }
-          },
-          {
-            "id": "37fcd7018ed4a3a6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "content/docs for setup.md"
-              }
-            }
-          },
-          {
-            "id": "785dfbbfdfeb0a2a",
+            "id": "9246cd236df2f28f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/docs for setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,95 +100,79 @@
             }
           },
           {
-            "id": "19cc125753ee89e2",
+            "id": "662ee1ae6d96b6d7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/docs for setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "692bfe08e8002bca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f75863ca530be892",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "0426d721c8e7b1d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "414e7707a880eaef",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": true,
-      "switcher:Open quick switcher": true,
-      "canvas:Create new canvas": true,
-      "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": true,
-      "periodic-notes:Open today": false,
+      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "recipe-grabber:Recipe Grabber": false,
-      "confluence-integration:Publish to Confluence": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "25ac992dff818ac1",
-  "lastOpenFiles": [
-    "public/404.html",
-    "public/static/og-image.png",
-    "public/static/icon.png",
-    "public/static/contentIndex.json",
-    "public/index.xml",
-    "public/sitemap.xml",
-    "public/tags/obsidian.html",
-    "public/tags/index.html",
-    "public/tags",
-    "public/index.html",
-    "public/docs-for-setup.html",
-    "public/Untitled.html",
-    "public/postscript.js",
-    "docs/authoring content.md",
-    "templates/Note.md",
-    "content/index.md",
-    "content/docs for setup.md",
-    "content/Untitled.md",
-    "docs/hosting.md",
-    "docs/configuration.md",
-    "61 Josh's Work & Tech/00-Inbox/Untitled 4.md",
-    "61 Josh's Work & Tech/00-Inbox/Untitled 3.md",
-    "61 Josh's Work & Tech/97 Weekly Notes/2024-W33-Aug.md",
-    "61 Josh's Work & Tech/06 Dev & Tech/Git commit author and configuration.md",
-    "33 Financial thoughts/Personal Finance.md",
-    "39 Recipes/Homemade Cake Pops.md",
-    "39 Recipes/Sri Lankan Eggplant Curry.md",
-    "39 Recipes/Tomatillo Chile de Arbol Salsa.md",
-    "39 Recipes/Chicken Marbella.md",
-    "39 Recipes/Yakisoba Sauce.md",
-    "61 Josh's Work & Tech/00-Inbox/attachments/image.jpg",
-    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114216.png",
-    "61 Josh's Work & Tech/00-Inbox/attachments/image 1.jpg",
-    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114625.png",
-    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114103.png",
-    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20230124100856.png",
-    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624084542.png",
-    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624093919.png",
-    "61 Josh's Work & Tech/05 Bitovi Work Notes/Bitovi Training Audit.md",
-    "61 Josh's Work & Tech/06 Dev & Tech/Lambda-BloomTech/Ava's DB notes.md",
-    "61 Josh's Work & Tech/05 Bitovi Work Notes/01-Index (needs updating).md",
-    "61 Josh's Work & Tech/05 Bitovi Work Notes/Project Management & Jira training.md",
-    "61 Josh's Work & Tech/08 Trainings & Presentations/2024-01-12 Team Stingray Frontend FE Training.md",
-    "61 Josh's Work & Tech/05 Bitovi Work Notes/2022-05-23 Bitovi Typescript Training.md",
-    "61 Josh's Work & Tech/00-Inbox/Bitovi consulting training 2024-7-8.md",
-    "61 Josh's Work & Tech/05 Bitovi Work Notes/Bitovi Evals & Goals Log.md",
-    "Sprinkler Valve layout.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "61 Josh's Bitovi/00-Inbox/TEMP Canvas.canvas",
-    "61 Josh's Bitovi/00-Inbox 1/TEMP Canvas.canvas",
-    "00-Inbox/TEMP Canvas.canvas",
-    "Josh's Tech and Work/00-Inbox/TEMP Canvas.canvas"
-  ]
+  "active": "414e7707a880eaef",
+  "lastOpenFiles": []
 }
