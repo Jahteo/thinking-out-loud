@@ -94,6 +94,7 @@
     "category": "multitext",
     "excalidraw-open-md": "checkbox",
     "excalidraw-export-embed-scene": "checkbox",
-    "excalidraw-embeddable-theme": "text"
+    "excalidraw-embeddable-theme": "text",
+    "date": "date"
   }
 }

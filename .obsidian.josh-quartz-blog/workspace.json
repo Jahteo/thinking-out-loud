@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d62fe98cb4c1bf0f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d0ddcf47c33c9238",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "963f1a20b3b131b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e836c36742ffa9aa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8c24b6b70f8d063b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "84d7a792a742933b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "553df30089917149",
             "type": "leaf",
             "pinned": true,
@@ -76,15 +28,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs for setup.md",
+                "file": "docs/authoring content.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c66d4826a03f68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Note.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/docs for setup.md"
+                "file": "templates/Note.md"
               }
             }
           },
@@ -224,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/docs for setup.md"
+                "file": "templates/Note.md"
               }
             }
           },
@@ -234,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/docs for setup.md",
+                "file": "templates/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/docs for setup.md",
+                "file": "templates/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,8 +246,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "25ac992dff818ac1",
+  "active": "37fcd7018ed4a3a6",
   "lastOpenFiles": [
+    "templates/Note.md",
+    "docs/authoring content.md",
+    "docs/hosting.md",
+    "docs/configuration.md",
+    "content/docs for setup.md",
     "public/tags/obsidian.html",
     "public/docs-for-setup.html",
     "public/404.html",
@@ -295,9 +265,7 @@
     "public/tags/index.html",
     "public/tags",
     "public/index.html",
-    "public/prescript.js",
     "content/Untitled.md",
-    "templates/Note.md",
     "61 Josh's Work & Tech/00-Inbox/Untitled 4.md",
     "61 Josh's Work & Tech/00-Inbox/Untitled 3.md",
     "61 Josh's Work & Tech/97 Weekly Notes/2024-W33-Aug.md",
@@ -326,9 +294,6 @@
     "61 Josh's Work & Tech/05 Bitovi Work Notes/Bitovi Evals & Goals Log.md",
     "61 Josh's Work & Tech/05 Bitovi Work Notes/bitovi.com rebuild.md",
     "61 Josh's Work & Tech/00-Inbox/2024 Bitovi MidYearEvals.md",
-    "61 Josh's Work & Tech/00-Inbox/Bitovi Training - Core Angular Fundamentals.md",
-    "61 Josh's Work & Tech/00-Inbox/Opsgility React training - dry runs lesson.md",
-    "61 Josh's Work & Tech/00-Inbox/2023-02-28 hubspot training.md",
     "Sprinkler Valve layout.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
