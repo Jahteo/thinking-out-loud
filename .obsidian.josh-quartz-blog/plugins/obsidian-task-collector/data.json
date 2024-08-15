@@ -1,0 +1,15 @@
+{
+  "completedAreaHeader": "## Completed Log",
+  "removeExpression": "",
+  "appendDateFormat": "",
+  "incompleteTaskValues": " ",
+  "supportCanceledTasks": true,
+  "rightClickComplete": true,
+  "rightClickMark": true,
+  "rightClickMove": false,
+  "rightClickReset": false,
+  "rightClickResetTask": true,
+  "rightClickResetAll": false,
+  "rightClickToggleAll": false,
+  "completedAreaRemoveCheckbox": false
+}

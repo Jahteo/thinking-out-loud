@@ -1,0 +1,390 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01 Home Improvement",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "updated": {
+                "width": 214
+              },
+              "name": {
+                "width": 313
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f29a5fca-0893-4e8d-a5b7-f9c6fcdd6898",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0cab3f72-2e8c-4bfc-a92c-1c1213c4b0e7",
+          "name": "Kanban",
+          "type": "board"
+        }
+      ],
+      "name": "01 Home Improvement",
+      "id": "f89b099e-1a2a-4450-b515-7374e9af8d69"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "09 Recipes",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "sortField": "part of meal",
+            "sortAsc": true
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "621854a2-a4c2-4891-bd29-4c0783e6cd9f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "fb20efb4-8fb9-4f0f-80b2-e911088559d9",
+      "name": "Recipes - Food"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "09 Recipes/Desserts & Drinks",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "24408072-f9a2-4a18-bab0-9a2aeab9229c",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "89a6e60f-cce6-408c-88ea-f6fefe47fe5a",
+      "name": "Recipes - Desserts & Drinks"
+    },
+    {
+      "fieldConfig": {
+        "is it tasty": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "09 Recipes",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "updated": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5e0146e3-7619-461c-95a8-8b45f2192147",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "is it tasty"
+            ],
+            "groupByField": "name"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "17afd0d7-4640-4638-99c5-7d52e646ec82",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "is it tasty",
+              "part of meal"
+            ],
+            "coverField": "name",
+            "cardWidth": 200
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4d8f212c-47f3-4ff4-b1fa-2177d1ecdfcb",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "fitStyle": "cover",
+            "coverField": "",
+            "includeFields": [
+              "is it tasty"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "is it tasty",
+                "operator": "is-not-empty",
+                "enabled": true
+              },
+              {
+                "field": "part of meal",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "11c25dfd-45e6-461f-be7a-0a14a95b7bc3",
+          "name": "New Recipes",
+          "type": "gallery"
+        }
+      ],
+      "id": "6fb99f2b-578d-47be-8b59-09ebbffc2c26",
+      "name": "09 Recipes"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Josh's",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "amBed": {
+                "hide": true
+              },
+              "amDishes": {
+                "hide": true
+              },
+              "amDogfood": {
+                "hide": true
+              },
+              "amWater": {
+                "hide": true
+              },
+              "amYoga": {
+                "hide": true
+              },
+              "AsNeededMeds": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "53e79014-c465-4918-8d6c-3b62eaa34623",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e4cc1612-4116-457f-bef0-d1284b163f3e",
+      "name": "Josh's"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Josh's/03 Dev Projects 💻/Migraine App 🧠⚡",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7407258c-4be7-4870-a214-68f47f7813de",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e76538b1-1177-46fd-9a9a-3ea6f874f49f",
+      "name": "Migraine App 🧠⚡"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Josh's/03 Dev Projects 💻/Migraine App 🧠⚡",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d39d1ad3-1028-4e86-a291-f7c209e43a15",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "f638209f-d695-451c-8ace-fe7a6ccafe60",
+      "name": "Migraine App 🧠⚡"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

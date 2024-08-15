@@ -1,0 +1,62 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "work",
+              "displayTitle": "Work"
+            },
+            {
+              "tag": "recipe",
+              "displayTitle": "Recipe"
+            },
+            {
+              "tag": "fixme",
+              "displayTitle": "Fixme"
+            },
+            {
+              "tag": "review",
+              "displayTitle": "Review"
+            },
+            {
+              "tag": "needs",
+              "displayTitle": "Needs"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 0,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Josh's/98 Daily Notes"
+            }
+          ],
+          "filterPolarity": "Deny",
+          "filterScope": "TopLevelOnly",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": true,
+          "title": "test",
+          "collapsedColumns": []
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}

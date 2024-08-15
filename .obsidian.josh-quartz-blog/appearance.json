@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "obsidian",
+    "incomplete-checkbox-style-override"
+  ],
+  "accentColor": "",
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "monospaceFontFamily": "Courier New",
+  "showViewHeader": true
+}

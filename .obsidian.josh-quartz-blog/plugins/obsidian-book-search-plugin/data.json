@@ -1,0 +1,19 @@
+{
+  "folder": "content/books",
+  "fileNameFormat": "\"{{author}}\" - {{title}} - {{publishDate}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Snake Case",
+  "templateFile": "60 Josh's/templates/J - new book template.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": false,
+  "enableCoverImageSave": false,
+  "coverImagePath": "",
+  "askForLocale": true
+}

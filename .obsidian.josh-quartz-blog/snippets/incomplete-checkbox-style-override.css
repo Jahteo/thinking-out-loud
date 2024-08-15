@@ -1,0 +1,3 @@
+.anp-custom-checkboxes [data-task="/"] > input[type=checkbox]:checked:before,
+.anp-custom-checkboxes [data-task="/"] > p > input[type=checkbox]:checked:before, .anp-custom-checkboxes [data-task="/"][type=checkbox]:checked:before
+	{top:0;left:0;content:" ";display:block;position:absolute;background-color:var(--background-modifier-accent);wid

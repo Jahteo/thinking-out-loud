@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "81640df763095941",
+    "type": "split",
+    "children": [
+      {
+        "id": "05bf81b36948954a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d62fe98cb4c1bf0f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0ddcf47c33c9238",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "963f1a20b3b131b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e836c36742ffa9aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c24b6b70f8d063b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "84d7a792a742933b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "553df30089917149",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "25ac992dff818ac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/docs for setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "988f5c299a638ad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1276ad333d5f89c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7703dfcf48f53e1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fbbbabd9f19912d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7048b03ccd39be2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "5c71924aec7127e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea05ac511121ce95",
+        "type": "tabs",
+        "dimension": 38.5,
+        "children": [
+          {
+            "id": "b168492dcc6802cc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c753aa66c5e4ffbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2a7e395206b4690c",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "71bcf8b98d66e068",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e20cd691b81341ba",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "4024cd4b171f5b9e",
+        "type": "tabs",
+        "dimension": 61.5,
+        "children": [
+          {
+            "id": "c1cd646ded335f4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "content/docs for setup.md"
+              }
+            }
+          },
+          {
+            "id": "4d3346b137586077",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": "read"
+              }
+            }
+          },
+          {
+            "id": "37fcd7018ed4a3a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/docs for setup.md"
+              }
+            }
+          },
+          {
+            "id": "785dfbbfdfeb0a2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/docs for setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19cc125753ee89e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/docs for setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": true,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": true,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "recipe-grabber:Recipe Grabber": false,
+      "confluence-integration:Publish to Confluence": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "25ac992dff818ac1",
+  "lastOpenFiles": [
+    "public/tags/obsidian.html",
+    "public/docs-for-setup.html",
+    "public/404.html",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/static/contentIndex.json",
+    "public/static",
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/tags/index.html",
+    "public/tags",
+    "public/index.html",
+    "public/prescript.js",
+    "content/Untitled.md",
+    "templates/Note.md",
+    "61 Josh's Work & Tech/00-Inbox/Untitled 4.md",
+    "61 Josh's Work & Tech/00-Inbox/Untitled 3.md",
+    "61 Josh's Work & Tech/97 Weekly Notes/2024-W33-Aug.md",
+    "61 Josh's Work & Tech/06 Dev & Tech/Git commit author and configuration.md",
+    "33 Financial thoughts/Personal Finance.md",
+    "39 Recipes/Homemade Cake Pops.md",
+    "39 Recipes/Sri Lankan Eggplant Curry.md",
+    "39 Recipes/Tomatillo Chile de Arbol Salsa.md",
+    "39 Recipes/Chicken Marbella.md",
+    "39 Recipes/Yakisoba Sauce.md",
+    "61 Josh's Work & Tech/00-Inbox/attachments/image.jpg",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114216.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/image 1.jpg",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114625.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624114103.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20230124100856.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624084542.png",
+    "61 Josh's Work & Tech/00-Inbox/attachments/Pasted image 20220624093919.png",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/Bitovi Training Audit.md",
+    "61 Josh's Work & Tech/06 Dev & Tech/Lambda-BloomTech/Ava's DB notes.md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/01-Index (needs updating).md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/Project Management & Jira training.md",
+    "61 Josh's Work & Tech/08 Trainings & Presentations/2024-01-12 Team Stingray Frontend FE Training.md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/2022-05-23 Bitovi Typescript Training.md",
+    "61 Josh's Work & Tech/00-Inbox/Bitovi consulting training 2024-7-8.md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/Bitovi Evals & Goals Log.md",
+    "61 Josh's Work & Tech/05 Bitovi Work Notes/bitovi.com rebuild.md",
+    "61 Josh's Work & Tech/00-Inbox/2024 Bitovi MidYearEvals.md",
+    "61 Josh's Work & Tech/00-Inbox/Bitovi Training - Core Angular Fundamentals.md",
+    "61 Josh's Work & Tech/00-Inbox/Opsgility React training - dry runs lesson.md",
+    "61 Josh's Work & Tech/00-Inbox/2023-02-28 hubspot training.md",
+    "Sprinkler Valve layout.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "61 Josh's Bitovi/00-Inbox/TEMP Canvas.canvas",
+    "61 Josh's Bitovi/00-Inbox 1/TEMP Canvas.canvas",
+    "00-Inbox/TEMP Canvas.canvas",
+    "Josh's Tech and Work/00-Inbox/TEMP Canvas.canvas"
+  ]
+}

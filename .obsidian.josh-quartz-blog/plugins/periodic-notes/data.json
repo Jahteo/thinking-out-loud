@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "60 Josh's/98 Daily Notes",
+    "template": "templates/J - Daily note template.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg-[W]ww-MMM",
+    "template": "templates/J - Weekly note template.md",
+    "folder": "60 Josh's/97 Weekly Notes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-MM-MMM",
+    "template": "60 Josh's/templates/J - Monthly Note Template.md",
+    "folder": "60 Josh's/96 Monthly Notes",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "Random tasks & questions (Landing Pages).md",
+    "folder": "",
+    "enabled": false
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": "51 Joint Annual Notes",
+    "enabled": true
+  }
+}

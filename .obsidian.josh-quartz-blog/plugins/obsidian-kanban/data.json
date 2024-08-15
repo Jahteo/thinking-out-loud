@@ -1,0 +1,14 @@
+{
+  "tag-colors": [
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "show-relative-date": false,
+  "hide-date-display": false,
+  "hide-date-in-title": true,
+  "link-date-to-daily-note": true,
+  "show-checkboxes": true
+}

@@ -1,0 +1,4 @@
+{
+  "debug": false,
+  "recipeTemplate": "---\naliases: \nis it tasty: \npart of meal: \ncuisine: \nveggies: \nProteins: \nrecipe tags:\n---\n\n{{name}}\n{{url}}\n\n\n![{{name}}|300]({{image}})\n> [!note]- Blogger description\n{{description}}\n\n## Recipe\nYield:\nPrep time:\nCook time:\nTotal time:\n\n### Ingredients\n\n{{#each recipeIngredient}}\n- {{this}}\n{{/each}}\n\n### Instructions\n\n{{#each recipeInstructions}}\n- {{this.text}}\n{{/each}}\n\n\n-----\n\n## Personal Notes\n"
+}
