@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Thinking out loud
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+hold that thought
+we're getting there

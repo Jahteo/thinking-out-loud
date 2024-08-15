@@ -54,5 +54,13 @@
   "readableLineLength": true,
   "rightToLeft": false,
   "showInlineTitle": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "userIgnoreFilters": [
+    "public/",
+    "quartz/",
+    "docs/advanced/",
+    "node_modules/",
+    "quartz/",
+    "quartz/"
+  ]
 }

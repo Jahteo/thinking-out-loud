@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e21f4b97460572b5",
+        "id": "c0d987fb8cfc37e3",
         "type": "tabs",
         "children": [
           {
-            "id": "52ea786f591eba31",
+            "id": "10c39fa9ae6288f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/notes for setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "blank",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/notes for setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/notes for setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/notes for setup.md"
+              }
             }
           },
           {
@@ -148,14 +157,23 @@
               "type": "Saved Queries View",
               "state": {}
             }
+          },
+          {
+            "id": "b340f0f98b3d720b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "content/notes for setup.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,12 +187,24 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "414e7707a880eaef",
+  "active": "c3afc865b965a3a8",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/TIL/In a world of no strict typing, strictNullChecks.md",
+    "content/TIL/Can only 'Restart' TS Server when js or ts file is focued.md",
+    "_templates/Note.md",
+    "_templates/TIL.md",
+    "content/notes for setup.md",
+    "docs/features/folder and tag listings.md",
+    "docs/features/comments.md",
+    "docs/features/callouts.md",
+    "docs/features/breadcrumbs.md",
+    "content/TIL",
+    "docs/authoring content.md",
+    "content",
     "package-lock.json",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
@@ -187,10 +217,7 @@
     "node_modules/shiki/LICENSE",
     "node_modules/typescript/README.md",
     "node_modules/typescript/SECURITY.md",
-    "node_modules/typescript/package.json",
-    "node_modules/jsdom/LICENSE.txt",
     "node_modules/jsdom/README.md",
-    "node_modules/jsdom/package.json",
     "node_modules/tsx/node_modules/@esbuild/darwin-x64/README.md",
     "node_modules/@esbuild/darwin-x64/README.md",
     "node_modules/rehype-citation/README.md",
@@ -201,16 +228,6 @@
     "node_modules/flexsearch/CHANGELOG.md",
     "node_modules/flexsearch/README.md",
     "node_modules/sass/README.md",
-    "node_modules/prettier/README.md",
-    "node_modules/preact/README.md",
-    "node_modules/speech-rule-engine/lib/README.md",
-    "node_modules/resolve/SECURITY.md",
-    "node_modules/@citation-js/core/README.md",
-    "node_modules/@citation-js/core/LICENSE.md",
-    "node_modules/rimraf/README.md",
-    "node_modules/micromark-core-commonmark/readme.md",
-    "node_modules/preact-render-to-string/README.md",
-    "node_modules/parse5/README.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/cli-spinner/img/spinner.gif",
     "public/static/icon.png",

@@ -8,7 +8,6 @@
   "outgoing-link",
   "tag-pane",
   "properties",
-  "note-composer",
   "command-palette",
   "slash-command",
   "editor-status",
@@ -16,7 +15,6 @@
   "outline",
   "word-count",
   "slides",
-  "workspaces",
   "file-recovery",
   "sync"
 ]

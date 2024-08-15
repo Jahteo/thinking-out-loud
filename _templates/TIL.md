@@ -1,8 +1,7 @@
 ---
-title: 
 draft: false
-tags: 
+tags:
+  - TIL
 description: 
-aliases: 
-date:
+aliases:
 ---
