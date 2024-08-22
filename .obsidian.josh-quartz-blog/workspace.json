@@ -13,6 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "content/TIL/Cool find - NerdWallet has Open Source code for random things.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b7c7881c0a088b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/whats a singleton design pattern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b69d9949cbff6744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/what's a indexed access type.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e24912eb7038d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/TIL/I like domain driven design. Not as scary as it sounds.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beab6f857b4ee38d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "content/notes for setup.md",
                 "mode": "source",
                 "backlinks": true,
@@ -20,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blank",
+                "query": "tag:#Backend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,47 +243,47 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3afc865b965a3a8",
+  "active": "beab6f857b4ee38d",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/TIL/In a world of no strict typing, strictNullChecks.md",
-    "content/TIL/Can only 'Restart' TS Server when js or ts file is focued.md",
-    "_templates/Note.md",
-    "_templates/TIL.md",
-    "content/notes for setup.md",
-    "docs/features/folder and tag listings.md",
-    "docs/features/comments.md",
-    "docs/features/callouts.md",
-    "docs/features/breadcrumbs.md",
-    "content/TIL",
-    "docs/authoring content.md",
-    "content",
-    "package-lock.json",
-    "node_modules/mathjax-full/README.md",
-    "node_modules/mathjax-full/CONTRIBUTING.md",
-    "node_modules/mathjax-full/tslint.json",
-    "node_modules/mathjax-full/tsconfig.json",
-    "node_modules/mathjax-full/package.json",
-    "node_modules/mathjax-full/components/webpack.common.js",
-    "node_modules/typescript/ThirdPartyNoticeText.txt",
-    "node_modules/typescript/LICENSE.txt",
-    "node_modules/shiki/LICENSE",
-    "node_modules/typescript/README.md",
-    "node_modules/typescript/SECURITY.md",
-    "node_modules/jsdom/README.md",
-    "node_modules/tsx/node_modules/@esbuild/darwin-x64/README.md",
-    "node_modules/@esbuild/darwin-x64/README.md",
-    "node_modules/rehype-citation/README.md",
-    "node_modules/speech-rule-engine/README.md",
-    "node_modules/speech-rule-engine/bin/README.md",
-    "node_modules/css-tree/README.md",
-    "node_modules/katex/README.md",
-    "node_modules/flexsearch/CHANGELOG.md",
-    "node_modules/flexsearch/README.md",
-    "node_modules/sass/README.md",
-    "node_modules/psl/browserstack-logo.svg",
-    "node_modules/cli-spinner/img/spinner.gif",
+    "quartz/plugins/emitters/404.tsx",
+    "quartz/404.tsx",
+    "public/404.html",
+    "public/static/og-image.png",
     "public/static/icon.png",
-    "public/static/og-image.png"
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/tags/Homework📚.html",
+    "public/tags/Angular.html",
+    "public/whats-a-singleton-design-pattern.html",
+    "public/what's-a-indexed-access-type.html",
+    "public/notes-for-setup.html",
+    "public/index.html",
+    "content/private drafts/Angular basics for Bitovians.md",
+    "content/TIL/Memory leaks are an extra big risk in Angular..md",
+    "content/TIL/I like domain driven design. Not as scary as it sounds.md",
+    "content/what's a indexed access type.md",
+    "content/whats a singleton design pattern.md",
+    "content/TIL/Cool find - NerdWallet has Open Source code for random things.md",
+    "content/TIL/Untitled 1.md",
+    "content/TIL/Angular - mergeMap, switchMap, exhaustMap demo!.md",
+    "content/TIL/In a world of no strict typing, strictNullChecks.md",
+    "docs/plugins/CrawlLinks.md",
+    "docs/features/folder and tag listings.md",
+    "content/TIL/You can only 'Restart' TS Server when a js or ts file is focused.md",
+    "docs/features/private pages.md",
+    "docs/features/recent notes.md",
+    "docs/features/graph view.md",
+    "docs/features/full-text search.md",
+    "docs/features/explorer.md",
+    "docs/features/darkmode.md",
+    "docs/features/comments.md",
+    "docs/features/breadcrumbs.md",
+    "docs/features/backlinks.md",
+    "docs/features/table of contents.md",
+    "docs/features/syntax highlighting.md",
+    "docs/features/OxHugo compatibility.md",
+    "docs/features/Obsidian compatibility.md",
+    "node_modules/psl/browserstack-logo.svg",
+    "node_modules/cli-spinner/img/spinner.gif"
   ]
 }
